@@ -7,19 +7,11 @@
   
   <p align="center">
     Sou Desenvolvedor Full Stack e gosto muito de ajudar startups e ecommerces através do growth hacking
-    <a href="[[https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1](https://www.instagram.com/sashiads/)]" target="_blank">
-      <img
-           width="10%" 
-           align="center" 
-           valign="middle" 
-           src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social" 
-           target="_blank" 
-      />
-    </a>  
+    
   </p>
   
   <p align="center">
-    Conheça meu instagram e veja um pouco do meu trabalho! 😉️
+    Conheça meu <a hre="https://www.instagram.com/sashiads/">instagram</a> e veja um pouco do meu trabalho! 😉️
   </p>
   
 </div>
