@@ -7,7 +7,7 @@
   
   <p align="center">
     Sou Desenvolvedor Full Stack e gosto muito de ajudar startups e ecommerces através do growth hacking
-    <a href="[https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1](https://www.instagram.com/sashiads/)" target="_blank">
+    <a href="[[https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1](https://www.instagram.com/sashiads/)]" target="_blank">
       <img
            width="10%" 
            align="center" 
