@@ -2,12 +2,12 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/edududuribeiro/">Eduardo Ribeiro 😃️</a>
+    <a href="[https://www.linkedin.com/in/edududuribeiro/](https://www.linkedin.com/in/jucio-gabriel/)">Jucio Gabriel 😃️</a>
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
-    <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
+    Sou Desenvolvedor Full Stack e gosto muito de ajudar startups e ecommerces através do growth hacking
+    <a href="[https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1](https://www.instagram.com/sashiads/)" target="_blank">
       <img
            width="10%" 
            align="center" 
@@ -19,7 +19,7 @@
   </p>
   
   <p align="center">
-    Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️
+    Conheça meu instagram e veja um pouco do meu trabalho! 😉️
   </p>
   
 </div>
@@ -60,5 +60,4 @@
 
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
